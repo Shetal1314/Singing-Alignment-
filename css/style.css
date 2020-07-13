@@ -1,0 +1,36 @@
+
+body{
+
+  background: url(../img/mike.jpg) no-repeat center center fixed;
+  background-size:cover;
+}
+.content {
+  width:50%;
+  padding: 40px;
+  margin: 100px;
+}
+/* button */
+body{
+  margin:0;
+  padding:0;
+}
+.container{
+  text-align:right;
+  margin-right: auto;
+}
+.btn{
+  border:1px solid #ffffff;
+  background:none;
+  padding:10px 20px;
+  font-size: 20px;
+  font-family: "montserrat"
+  cursor: pointer;
+  margin:10px;
+  transition:0.8s;
+}
+.btn1,.btn2{
+  color:#ffffff;
+}
+.btn1:hover,.btn2:hover{
+  color:#6FDDE3;
+}
